@@ -34,5 +34,59 @@
         "team_nationality": "British",
         "power_unit": "Honda RBPT",
         "drivers": "Max Verstappen, Yuki Tsunoda"
+    },
+    {
+        "full_team_name": "Visa Cash App Racing Bulls Formula One Team",
+        "team_name": "Racing Bulls",
+        "team_principal": "Laurent Mekies",
+        "constructors_championships": 0,
+        "team_nationality": "Italian",
+        "power_unit": "Honda RBPT",
+        "drivers": "Liam Lawson, Isack Hadjar"
+    },
+    {
+        "full_team_name": "Aston Martin Aramco Formula One Team",
+        "team_name": "Aston Martin",
+        "team_principal": "Andy Cowell",
+        "constructors_championships": 0,
+        "team_nationality": "British",
+        "power_unit": "Mercedes",
+        "drivers": "lance Stroll, Fernando Alonso"
+    },
+    {
+        "full_team_name": "Stake F1 Team Kick Sauber",
+        "team_name": "Kick Sauber",
+        "team_principal": "Jonathan Wheatley",
+        "constructors_championships": 0,
+        "team_nationality": "Swiss",
+        "power_unit": "Ferrari",
+        "drivers": "Nico Hulkenberg, Gabriel Bortoleto"
+    },
+    {
+        "full_team_name": "BWT Alpine Formula One Team",
+        "team_name": "Alpine",
+        "team_principal": "Oliver Oakes",
+        "constructors_championships": 2,
+        "team_nationality": "British",
+        "power_unit": "Renault",
+        "drivers": "Lance Stroll, Fernando Alonso"
+    },
+    {
+        "full_team_name": "MoneyGram Haas F1 Team",
+        "team_name": "Haas",
+        "team_principal": "Ayao Komatsu",
+        "constructors_championships": 0,
+        "team_nationality": "American",
+        "power_unit": "Ferrari",
+        "drivers": "Esteban Ocon, Oliver Bearman"
+    },
+    {
+        "full_team_name": "Atlassian Williams Racing",
+        "team_name": "Williams",
+        "team_principal": "James Vowles",
+        "constructors_championships": 9,
+        "team_nationality": "British",
+        "power_unit": "Mercedes",
+        "drivers": "Alexander Albon, Carlos Sainz"
     }
 ]
