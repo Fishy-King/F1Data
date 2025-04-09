@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Lewis Hamilton",
+        "number": 44,
+        "career": "2007 - Present",
+        "championships": 7,
+        "team": "Ferrari",
+        "nationality": "British"
+    },
+    {
+        "name": "Max Verstappen",
+        "number": "1 (33)",
+        "career": "2015 - Present",
+        "championships": 4,
+        "team": "Red Bull",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Lando Norris",
+        "number": 4,
+        "career": "2019 - Present",
+        "championships": 0,
+        "team": "McLaren",
+        "nationality": "British"
+    },
+    {
+        "name": "Oscar Piastri",
+        "number": 81,
+        "career": "2023 - Present",
+        "championships": 0,
+        "team": "McLaren",
+        "nationality": "Australian"
+    },
+    {
+        "name": "Charles Leclerc",
+        "number": 16,
+        "career": "2018 - Present",
+        "championships": 0,
+        "team": "Ferrari",
+        "nationality": "Monégasque"
+    },
+    {
+        "name": "Yuki Tsunoda",
+        "number": 22,
+        "career": "2021 - Present",
+        "championships": 0,
+        "team": "Red Bull",
+        "nationality": "Japanese"
+    },
+    {
+        "name": "George Russell",
+        "number": 63,
+        "career": "2019 - Present",
+        "championships": 0,
+        "team": "Mercedes",
+        "nationality": "British"
+    },
+    {
+        "name": "Kimi Antonelli",
+        "number": 12,
+        "career": "2025 - Present",
+        "championships": 0,
+        "team": "Mercedes",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Lance Stroll",
+        "number": 18,
+        "career": "2017 - Present",
+        "championships": 0,
+        "team": "Aston Martin",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Fernando Alonso",
+        "number": 14,
+        "career": "2001 - Present",
+        "championships": 2,
+        "team": "Aston Martin",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Esteban Ocon",
+        "number": 31,
+        "career": "2016 - Present",
+        "championships": 0,
+        "team": "Haas",
+        "nationality": "French"
+    },
+    {
+        "name": "Oliver Bearman",
+        "number": 87,
+        "career": "2024 - Present",
+        "championships": 0,
+        "team": "Haas",
+        "nationality": "British"
+    },
+    {
+        "name": "Pierre Gasly",
+        "number": 10,
+        "career": "2017 - Present",
+        "championships": 0,
+        "team": "Alpine",
+        "nationality": "French"
+    },
+    {
+        "name": "Jack Doohan",
+        "number": 7,
+        "career": "2024 - Present",
+        "championships": 0,
+        "team": "Alpine",
+        "nationality": "Australian"
+    },
+    {
+        "name": "Alex Albon",
+        "number": 23,
+        "career": "2019 - Present",
+        "championships": 0,
+        "team": "Williams",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Carlos Sainz",
+        "number": 55,
+        "career": "2015 - Present",
+        "championships": 0,
+        "team": "Williams",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Gabriel Bortoleto",
+        "number": 5,
+        "career": "2025 - Present",
+        "championships": 0,
+        "team": "Kick Sauber",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Nico Hulkenberg",
+        "number": 27,
+        "career": "2010 - Present",
+        "championships": 0,
+        "team": "Kick Sauber",
+        "nationality": "German"
+    },
+    {
+        "name": "Liam Lawson",
+        "number": 30,
+        "career": "2023 - Present",
+        "championships": 0,
+        "team": "Racing Bulls",
+        "nationality": "New Zealander"
+    },
+    {
+        "name": "Isack Hadjar",
+        "number": 6,
+        "career": "2025 - Present",
+        "championships": 0,
+        "team": "Racing Bulls",
+        "nationality": "French"
+    }
+]
