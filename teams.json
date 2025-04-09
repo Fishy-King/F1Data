@@ -1,5 +1,38 @@
 [
     {
-        "Nothing yet...": "Nothing yet..."
+        "full_team_name": "Scuderia Ferrari HP",
+        "team_name": "Ferrari",
+        "team_principal": "Frédéric Vasseur",
+        "constructors_championships": 16,
+        "team_nationality": "Italian",
+        "power_unit": "Ferrari",
+        "drivers": "Charles Leclerc, Lewis Hamilton"
+    },
+    {
+        "full_team_name": "McLaren Formula 1 Team",
+        "team_name": "McLaren",
+        "team_principal": "Andrea Stella",
+        "constructors_championships": 9,
+        "team_nationality": "British",
+        "power_unit": "Mercedes",
+        "drivers": "Oscar Piastri, Lando Norris"
+    },
+    {
+        "full_team_name": "Mercedes-AMG PETRONAS Formula One Team",
+        "team_name": "Mercedes",
+        "team_principal": "Toto Wolff",
+        "constructors_championships": 8,
+        "team_nationality": "British",
+        "power_unit": "Mercedes",
+        "drivers": "George Russel, Kimi Antonelli"
+    },
+    {
+        "full_team_name": "Oracle Red Bull Racing",
+        "team_name": "Red Bull",
+        "team_principal": "Christian Horner",
+        "constructors_championships": 6,
+        "team_nationality": "British",
+        "power_unit": "Honda RBPT",
+        "drivers": "Max Verstappen, Yuki Tsunoda"
     }
 ]
