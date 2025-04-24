@@ -1,6 +1,7 @@
 [
     {
         "name": "Lewis Hamilton",
+        "driver_abbr": "HAM",
         "number": 44,
         "career": "2007 - Present",
         "championships": 7,
@@ -9,6 +10,7 @@
     },
     {
         "name": "Max Verstappen",
+        "driver_abbr": "VER",
         "number": "1 (33)",
         "career": "2015 - Present",
         "championships": 4,
@@ -17,6 +19,7 @@
     },
     {
         "name": "Lando Norris",
+        "driver_abbr": "NOR",
         "number": 4,
         "career": "2019 - Present",
         "championships": 0,
@@ -25,6 +28,7 @@
     },
     {
         "name": "Oscar Piastri",
+        "driver_abbr": "PIA",
         "number": 81,
         "career": "2023 - Present",
         "championships": 0,
@@ -33,6 +37,7 @@
     },
     {
         "name": "Charles Leclerc",
+        "driver_abbr": "LEC",
         "number": 16,
         "career": "2018 - Present",
         "championships": 0,
@@ -41,6 +46,7 @@
     },
     {
         "name": "Yuki Tsunoda",
+        "driver_abbr": "TSU",
         "number": 22,
         "career": "2021 - Present",
         "championships": 0,
@@ -49,6 +55,7 @@
     },
     {
         "name": "George Russell",
+        "driver_abbr": "RUS",
         "number": 63,
         "career": "2019 - Present",
         "championships": 0,
@@ -57,6 +64,7 @@
     },
     {
         "name": "Kimi Antonelli",
+        "driver_abbr": "ANT",
         "number": 12,
         "career": "2025 - Present",
         "championships": 0,
@@ -65,6 +73,7 @@
     },
     {
         "name": "Lance Stroll",
+        "driver_abbr": "STR",
         "number": 18,
         "career": "2017 - Present",
         "championships": 0,
@@ -73,6 +82,7 @@
     },
     {
         "name": "Fernando Alonso",
+        "driver_abbr": "ALO",
         "number": 14,
         "career": "2001 - Present",
         "championships": 2,
@@ -81,6 +91,7 @@
     },
     {
         "name": "Esteban Ocon",
+        "driver_abbr": "OCO",
         "number": 31,
         "career": "2016 - Present",
         "championships": 0,
@@ -89,6 +100,7 @@
     },
     {
         "name": "Oliver Bearman",
+        "driver_abbr": "BEA",
         "number": 87,
         "career": "2024 - Present",
         "championships": 0,
@@ -97,6 +109,7 @@
     },
     {
         "name": "Pierre Gasly",
+        "driver_abbr": "GAS",
         "number": 10,
         "career": "2017 - Present",
         "championships": 0,
@@ -105,6 +118,7 @@
     },
     {
         "name": "Jack Doohan",
+        "driver_abbr": "DOO",
         "number": 7,
         "career": "2024 - Present",
         "championships": 0,
@@ -113,6 +127,7 @@
     },
     {
         "name": "Alex Albon",
+        "driver_abbr": "ALB",
         "number": 23,
         "career": "2019 - Present",
         "championships": 0,
@@ -121,6 +136,7 @@
     },
     {
         "name": "Carlos Sainz",
+        "driver_abbr": "SAI",
         "number": 55,
         "career": "2015 - Present",
         "championships": 0,
@@ -129,6 +145,7 @@
     },
     {
         "name": "Gabriel Bortoleto",
+        "driver_abbr": "BOR",
         "number": 5,
         "career": "2025 - Present",
         "championships": 0,
@@ -137,6 +154,7 @@
     },
     {
         "name": "Nico Hulkenberg",
+        "driver_abbr": "HUL",
         "number": 27,
         "career": "2010 - Present",
         "championships": 0,
@@ -145,6 +163,7 @@
     },
     {
         "name": "Liam Lawson",
+        "driver_abbr": "LAW",
         "number": 30,
         "career": "2023 - Present",
         "championships": 0,
@@ -153,6 +172,7 @@
     },
     {
         "name": "Isack Hadjar",
+        "driver_abbr": "HAD",
         "number": 6,
         "career": "2025 - Present",
         "championships": 0,
