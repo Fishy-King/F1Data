@@ -1,5 +1,218 @@
 [
     {
-        "Nothing yet...": "Nothing yet..."
+        "track_name": "Albert Park",
+        "full_track_name": "Albert Park Grand Prix Circuit",
+        "country": "Australia",
+        "first_race": "1996",
+        "circuit_length": "5.278 km",
+        "race_distance": "306.124 km",
+        "lap_record": "1:19.813 (Charles Leclerc 2024)"
+    },
+    {
+        "track_name": "Shanghai",
+        "full_track_name": "Shanghai International Circuit",
+        "country": "China",
+        "first_race": "2004",
+        "circuit_length": "5.451 km",
+        "race_distance": "305.066 km",
+        "lap_record": "1:32.238 (Michael Schumacher 2004)"
+    },
+    {
+        "track_name": "Suzuka",
+        "full_track_name": "Suzuka Circuit",
+        "country": "Japan",
+        "first_race": "1987",
+        "circuit_length": "5.807 km",
+        "race_distance": "307.471 km",
+        "lap_record": "1:30.965 (Kimi Antonelli 2025)"
+    },
+    {
+        "track_name": "Sakhir",
+        "full_track_name": "Bahrain International Circuit",
+        "country": "Bahrain",
+        "first_race": "2004",
+        "circuit_length": "5.412 km",
+        "race_distance": "308.238 km",
+        "lap_record": "1:31.447 (Pedro de la Rosa 2005)"
+    },
+    {
+        "track_name": "Jeddah",
+        "full_track_name": "Jeddah Corniche Circuit",
+        "country": "Saudi Arabia",
+        "first_race": "2021",
+        "circuit_length": "6.174 km",
+        "race_distance": "308.450 km",
+        "lap_record": "1:30.734 (Lewis Hamilton 2021)"
+    },
+    {
+        "track_name": "Miami",
+        "full_track_name": "Miami International Autodrome",
+        "country": "USA",
+        "first_race": "2022",
+        "circuit_length": "5.412 km",
+        "race_distance": "308.326 km",
+        "lap_record": "1:29.708 (Max Verstappen 2023)"
+    },
+    {
+        "track_name": "Imola",
+        "full_track_name": "Autodromo Enzo e Dino Ferrari",
+        "country": "Italy",
+        "first_race": "1980",
+        "circuit_length": "4.909 km",
+        "race_distance": "309.049 km",
+        "lap_record": "1:15.484 (Lewis Hamilton 2020)"
+    },
+    {
+        "track_name": "Monaco",
+        "full_track_name": "Circuit de Monaco",
+        "country": "Monaco",
+        "first_race": "1950",
+        "circuit_length": "3.337 km",
+        "race_distance": "260.286 km",
+        "lap_record": "1:12.909 (Lewis Hamilton 2021)"
+    },
+    {
+        "track_name": "Barcelona",
+        "full_track_name": "Circuit de Barcelona-Catalunya",
+        "country": "Spain",
+        "first_race": "1991",
+        "circuit_length": "4.675 km",
+        "race_distance": "308.424 km",
+        "lap_record": "1:18.149 (Max Verstappen 2021)"
+    },
+    {
+        "track_name": "Montreal",
+        "full_track_name": "Circuit Gilles Villeneuve",
+        "country": "Canada",
+        "first_race": "1978",
+        "circuit_length": "4.361 km",
+        "race_distance": "305.270 km",
+        "lap_record": "1:13.078 (Valtteri Bottas 2019)"
+    },
+    {
+        "track_name": "Spielberg",
+        "full_track_name": "Red Bull Ring",
+        "country": "Austria",
+        "first_race": "1970",
+        "circuit_length": "4.318 km",
+        "race_distance": "306.452 km",
+        "lap_record": "1:05.619 (Carlos Sainz 2020)"
+    },
+    {
+        "track_name": "Silverstone",
+        "full_track_name": "Silverstone Circuit",
+        "country": "United Kingdom",
+        "first_race": "1950",
+        "circuit_length": "5.891 km",
+        "race_distance": "306.198 km",
+        "lap_record": "1:27.097 (Max Verstappen 2020)"
+    },
+    {
+        "track_name": "Spa-Francorchamps",
+        "full_track_name": "Circuit de Spa-Francorchamps",
+        "country": "Belgium",
+        "first_race": "1950",
+        "circuit_length": "7.004 km",
+        "race_distance": "308.052 km",
+        "lap_record": "1:46.286 (Valtteri Bottas 2018)"
+    },
+    {
+        "track_name": "Budapest",
+        "full_track_name": "Hungaroring",
+        "country": "Hungary",
+        "first_race": "1986",
+        "circuit_length": "4.381 km",
+        "race_distance": "306.630 km",
+        "lap_record": "1:16.627 (Lewis Hamilton 2020)"
+    },
+    {
+        "track_name": "Zandvoort",
+        "full_track_name": "Circuit Zandvoort",
+        "country": "Netherlands",
+        "first_race": "1952",
+        "circuit_length": "4.259 km",
+        "race_distance": "306.587 km",
+        "lap_record": "1:11.097 (Lewis Hamilton 2021)"
+    },
+    {
+        "track_name": "Monza",
+        "full_track_name": "Autodromo Nazionale Monza",
+        "country": "Italy",
+        "first_race": "1950",
+        "circuit_length": "5.793 km",
+        "race_distance": "306.720 km",
+        "lap_record": "1:21.046 (Rubens Barrichello 2004)"
+    },
+    {
+        "track_name": "Baku",
+        "full_track_name": "Baku City Circuit",
+        "country": "Azerbaijan",
+        "first_race": "2016",
+        "circuit_length": "6.003 km",
+        "race_distance": "306.049 km",
+        "lap_record": "1:43.009 (Charles Leclerc 2019)"
+    },
+    {
+        "track_name": "Singapore",
+        "full_track_name": "Marina Bay Street Circuit",
+        "country": "Singapore",
+        "first_race": "2008",
+        "circuit_length": "5.063 km",
+        "race_distance": "308.706 km",
+        "lap_record": "1:41.905 (Kevin Magnussen 2018)"
+    },
+    {
+        "track_name": "Austin",
+        "full_track_name": "Circuit of The Americas",
+        "country": "USA",
+        "first_race": "2012",
+        "circuit_length": "5.513 km",
+        "race_distance": "308.405 km",
+        "lap_record": "1:36.169 (Charles Leclerc 2019)"
+    },
+    {
+        "track_name": "Mexico City",
+        "full_track_name": "Autódromo Hermanos Rodríguez",
+        "country": "Mexico",
+        "first_race": "1963",
+        "circuit_length": "4.304 km",
+        "race_distance": "305.354 km",
+        "lap_record": "1:17.774 (Valtteri Bottas 2021)"
+    },
+    {
+        "track_name": "São Paulo",
+        "full_track_name": "Autódromo José Carlos Pace",
+        "country": "Brazil",
+        "first_race": "1973",
+        "circuit_length": "4.309 km",
+        "race_distance": "305.909 km",
+        "lap_record": "1:10.540 (Valtteri Bottas 2018)"
+    },
+    {
+        "track_name": "Las Vegas",
+        "full_track_name": "Las Vegas Strip Circuit",
+        "country": "USA",
+        "first_race": "2023",
+        "circuit_length": "6.201 km",
+        "race_distance": "309.994 km",
+        "lap_record": "1:35.490 (Max Verstappen 2023)"
+    },
+    {
+        "track_name": "Lusail",
+        "full_track_name": "Lusail International Circuit",
+        "country": "Qatar",
+        "first_race": "2021",
+        "circuit_length": "5.419 km",
+        "race_distance": "308.611 km",
+        "lap_record": "1:23.196 (Max Verstappen 2023)"
+    },
+    {
+        "track_name": "Yas Marina",
+        "full_track_name": "Yas Marina Circuit",
+        "country": "Abu Dhabi",
+        "first_race": "2009",
+        "circuit_length": "5.281 km",
+        "race_distance": "306.183 km",
+        "lap_record": "1:26.103 (Max Verstappen 2021)"
     }
 ]

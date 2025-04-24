@@ -2,6 +2,7 @@
     {
         "full_team_name": "Scuderia Ferrari HP",
         "team_name": "Ferrari",
+        "entry_date": 1950,
         "team_principal": "Frédéric Vasseur",
         "constructors_championships": 16,
         "team_nationality": "Italian",
@@ -11,6 +12,7 @@
     {
         "full_team_name": "McLaren Formula 1 Team",
         "team_name": "McLaren",
+        "entry_date": 1966,
         "team_principal": "Andrea Stella",
         "constructors_championships": 9,
         "team_nationality": "British",
@@ -20,6 +22,7 @@
     {
         "full_team_name": "Mercedes-AMG PETRONAS Formula One Team",
         "team_name": "Mercedes",
+        "entry_date": 1970,
         "team_principal": "Toto Wolff",
         "constructors_championships": 8,
         "team_nationality": "British",
@@ -29,6 +32,7 @@
     {
         "full_team_name": "Oracle Red Bull Racing",
         "team_name": "Red Bull",
+        "entry_date": 1997,
         "team_principal": "Christian Horner",
         "constructors_championships": 6,
         "team_nationality": "British",
@@ -38,6 +42,7 @@
     {
         "full_team_name": "Visa Cash App Racing Bulls Formula One Team",
         "team_name": "Racing Bulls",
+        "entry_date": 2006,
         "team_principal": "Laurent Mekies",
         "constructors_championships": 0,
         "team_nationality": "Italian",
@@ -47,6 +52,7 @@
     {
         "full_team_name": "Aston Martin Aramco Formula One Team",
         "team_name": "Aston Martin",
+        "entry_date": 2018,
         "team_principal": "Andy Cowell",
         "constructors_championships": 0,
         "team_nationality": "British",
@@ -56,6 +62,7 @@
     {
         "full_team_name": "Stake F1 Team Kick Sauber",
         "team_name": "Kick Sauber",
+        "entry_date": 1993,
         "team_principal": "Jonathan Wheatley",
         "constructors_championships": 0,
         "team_nationality": "Swiss",
@@ -65,6 +72,7 @@
     {
         "full_team_name": "BWT Alpine Formula One Team",
         "team_name": "Alpine",
+        "entry_date": 1986,
         "team_principal": "Oliver Oakes",
         "constructors_championships": 2,
         "team_nationality": "British",
@@ -74,6 +82,7 @@
     {
         "full_team_name": "MoneyGram Haas F1 Team",
         "team_name": "Haas",
+        "entry_date": 2016,
         "team_principal": "Ayao Komatsu",
         "constructors_championships": 0,
         "team_nationality": "American",
@@ -83,6 +92,7 @@
     {
         "full_team_name": "Atlassian Williams Racing",
         "team_name": "Williams",
+        "entry_date": 1978,
         "team_principal": "James Vowles",
         "constructors_championships": 9,
         "team_nationality": "British",
